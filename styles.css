@@ -4,7 +4,5 @@ body {
   font-family: Arial,sans-serif;
 }
 .centro {
-  display: block;
-  margin: 0  auto;
-  content: center;
+  text-align: center;
 }
